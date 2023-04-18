@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControll : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     private CharacterController characterController;
 
